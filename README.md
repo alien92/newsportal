@@ -4,7 +4,7 @@ JS school project for practice
 ## About
 It is simple site for my learning in JavaScript and working with API
 
-## Autor
+## Author
 Armen Kalashyan
 
 ### Contact With Me
